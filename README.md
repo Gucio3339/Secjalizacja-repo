@@ -1,0 +1,1 @@
+Secjalizacja repo
